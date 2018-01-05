@@ -1,0 +1,7 @@
+basic_form.form:
+  path: 'basic-form-page'
+  defaults:
+    _title: 'Basic Form Page'
+    _form: '\Drupal\basic_form\Form\BasicForm'
+  requirements:
+    _permission: access content

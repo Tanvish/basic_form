@@ -1,0 +1,5 @@
+name: Basic Form Page
+description: Gets user info via a basic form page.
+core: 8.x
+package: Form
+type: module
